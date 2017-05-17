@@ -15,7 +15,7 @@ Follow the instruction below if you want to install sw_screensaver using Git.
 
 1.) Clone the git repository to the desired location using:
 
-    git clone https://github.com/shopware/sw_screensaver.git
+    git clone https://github.com/sw_screensaver.git
     
 ### How to report bugs / request features?
 
