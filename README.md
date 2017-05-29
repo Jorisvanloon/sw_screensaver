@@ -6,7 +6,7 @@ Lightweight Jquery plugin to show a screensaver
 
 ### Overview  
 
-Sed commodo tempor tortor. Donec quis quam in arcu rutrum finibus. Nunc vehicula blandit neque, eu sollicitudin augue aliquam a. Sed tortor quam, consectetur eu ante iaculis, eleifend accumsan ipsum. Morbi mattis tortor vitae libero dignissim vulputate eget in magna. Proin suscipit nisi quis orci suscipit, sed mattis enim mollis. Aenean facilisis turpis sit amet sapien gravida, id suscipit libero maximus. Vestibulum maximus sagittis est id egestas. Aliquam in pharetra tellus. Proin accumsan quis mi ut auctor. Nunc felis erat, auctor non maximus eu, commodo eget mauris. Phasellus scelerisque ultricies elit, a molestie lorem.
+Download here a screensaver viewer for your own SW. You can easily upload your own pictures, or from the internet. You can also tweak the "waiting" seconds all by yourself. 
 
 
 ### Installation via Git
@@ -16,6 +16,19 @@ Follow the instruction below if you want to install sw_screensaver using Git.
 1.) Clone the git repository to the desired location using:
 
     git clone https://github.com/sw_screensaver.git
+    
+    
+### Installation via Download link
+
+1. <a href="https://github.com/Jorisvanloon/sw_screensaver/blob/master/jquery.screen.js">Download here</a>
+2. Upload it to SW 
+3. Add your JS-library to theme.php
+
+### That's it, you're done!
+
+
+
+
     
 ### How to report bugs / request features?
 
